@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 <h3 align="center">Hello Everyone! I'm Pınar Topuz
-<br>I'm 24 years old. I'm a Software Developer 💻</h3>
+<br>I'm 24 years old. I'm a Data Scientist & ML 💻</h3>
 🔭 I'm currently working on projects under the username [ThecoderPinar](https://github.com/ThecoderPinar) on GitHub.<br>🌱 I'm focusing on learning Machine Learning and exploring new technologies in this field.<br>👯 I enjoy participating in creative projects and contributing to open-source communities.<br>😄 I consider myself a fun person to work with and bring a positive energy to the work environment.
 
 
