@@ -1,4 +1,4 @@
-![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/ThecoderPinar/ThecoderPinar/assets/107423523/38798335-0548-4e50-b452-a52266469235)
+![https://mir-s3-cdn-cf.behance.net/project_modules/source/749f9063638649.5ab93d9bbeb69.gif](https://mir-s3-cdn-cf.behance.net/project_modules/source/749f9063638649.5ab93d9bbeb69.gif)
 
 # 💫 About Me:
 🔬 I specialize in data analysis, machine learning, and predictive modeling.<br>📊 My journey in data science has been enriched with projects like ,.<br>💡 I believe in the power of data to drive informed decisions and improve businesses.<br>🌱 I'm always learning and staying up-to-date with the latest advancements in the field.<br>👨‍💻 I'm proficient in Python, SQL, and various data science libraries and tools.<br>🤝 I'm open to collaborations and discussions on projects related to .<br>📈 My goal is to make data science accessible and impactful for everyone.<br>
