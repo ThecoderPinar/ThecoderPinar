@@ -1,5 +1,12 @@
-<!-- GitHub Star History -->
-![GitHub Star History](https://starchart.cc/ThecoderPinar/ThecoderPinar.svg)
+![Header](./github-header-image.png)
+
+---
+
+
+
+https://github.com/user-attachments/assets/b6970da7-a34c-47a8-9296-395c9a1a10fc
+
+---
 
 ## 💫 About Me
 - 🔬 **Specialization:** Data analysis, machine learning, and predictive modeling.
@@ -12,15 +19,14 @@
 - ✨ **Mentorship:** Passionate about mentoring and sharing knowledge with the community.
 - 💪 **Advocacy:** Advocate for women in technology and breaking gender barriers.
 
+---
+
 <!-- GitHub Trophies -->
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThecoderPinar&theme=radical&no-frame=true&margin-w=15&row=2&column=3" alt="ThecoderPinar" /></a> 
 </p>
 
-<!-- Decorative GIF Section -->
-<section style="text-align: center; margin: 50px 0;">
-  <img src="https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif" alt="decorative" width="700" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);" />
-</section>
+---
 
 ## 🔭 What I'm Currently Working On
 - **HMS Brain Activity Analysis**
@@ -46,6 +52,8 @@
 
 ## 🌍 I'm Passionate About
 - **Making technology accessible and breaking gender barriers in tech.**
+  
+---
 
 <!-- Social Media Links -->
 <div align="center"> 
@@ -58,6 +66,8 @@
   <a href="https://medium.com/@piinartp" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCz6fWjg5qN1h9om5e57UeVA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
+
+---
 
 ## 🌟 Connect with Me
 <div align="center" style="margin-top: 20px;">
@@ -74,6 +84,8 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
   </a>
 </div>
+
+---
 
 ## 🛠️ Languages and Tools
 <div align="center">
@@ -107,6 +119,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
+---
+
 <!-- GitHub Stats -->
 <h3 align="center" style="margin-top: 50px;">📊 Stats:</h3>
 <div align="center">
@@ -115,30 +129,44 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThecoderPinar&theme=cobalt" alt="ThecoderPinar" />
 </div>
 
+---
+
 <!-- GitHub Activity Graph -->
 <h2 align="center" style="margin-top: 60px;">⚡ Activity Graph:</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThecoderPinar&theme=dracula"/>
 </div>
 
+---
+
 ### 😂 Random Dev Meme
 <div align="center">
   <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </div>
+
+---
 
 <!-- Spotify Data Card -->
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31wp4diy5vjb7iaj2kpha4foyree">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31wp4diy5vjb7iaj2kpha4foyree" alt="Data Card for Spotify">
 </a>
 
+---
+
+![image](https://github.com/user-attachments/assets/b8e41412-8a82-415c-9846-44350d30aac9)
+
+---
+
+<!-- Thank You Note -->
+<div align="center" style="margin-top: 50px; padding: 20px; background-color: #f0f0f0; border-radius: 15px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);">
+  <h3>Thanks for visiting my profile! Let's connect and build something amazing together! 🚀</h3>
+</div>
+
+---
+
 <!-- Profile Views -->
 <div align="center" style="margin-top: 40px;">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=ThecoderPinar&label=Profile%20Views&color=FF69B4&icon=9&pretty=true" />
   </a>
-</div>
-
-<!-- Thank You Note -->
-<div align="center" style="margin-top: 50px; padding: 20px; background-color: #f0f0f0; border-radius: 15px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);">
-  <h3>Thanks for visiting my profile! Let's connect and build something amazing together! 🚀</h3>
 </div>
