@@ -15,7 +15,7 @@
 
 ```yaml
 🛠️ Specialization: Scalable backend systems using ASP.NET Core
-🚀 Projects       : AuditTrail.NET • LegalTrack API • CampaignPanelSystem
+🚀 Projects       : ContractManagementSystem
 🎯 Focus          : REST APIs • JWT Auth • Clean Architecture
 🌱 Learning       : CI/CD · Microservices · System Design
 👩🏻‍🏫 Community   : Women in Tech Advocate, Dev Mentor
@@ -45,17 +45,9 @@
 
 ## 🗂️ Featured Projects
 
-### 📦 `AuditTrail.NET`
-> Reusable NuGet logger with JSON formatting & console/file output. 
-[![View on GitHub](https://img.shields.io/badge/GitHub-AuditTrail.NET-ff6ec4?style=for-the-badge&logo=github)](https://github.com/ThecoderPinar/AuditTrail.NET)
-
-### 🛡 `LegalTrack API`
-> A secure, versioned contract management backend. 
-[![Explore Repo](https://img.shields.io/badge/LegalTrack-Backend-7873f5?style=for-the-badge&logo=dotnet)](https://github.com/ThecoderPinar/LegalTrack)
-
-### 📈 `CampaignPanelSystem`
-> Multilingual dashboard for campaign results, EF Core + Role Auth. 
-[![View Project](https://img.shields.io/badge/CampaignPanelSystem-Dashboard-blueviolet?style=for-the-badge&logo=windows)](https://github.com/ThecoderPinar/CampaignPanelSystem)
+### 📦 `ContractManagementSystem`
+> Enterprise Contract Lifecycle API with ASP.NET Core.
+[![View on GitHub](https://img.shields.io/badge/GitHub-ContractManagementSystem-ff6ec4?style=for-the-badge&logo=github)](https://github.com/ThecoderPinar/ContractManagementSystem)
 
 ---
 
