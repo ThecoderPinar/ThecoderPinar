@@ -1,6 +1,6 @@
 <!-- 🌈 ULTRA VIBRANT WAVE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6ec4,7873f5&height=250&section=header&text=Pınar%20Topuz&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Backend%20Engineer%20%7C%20NuGet%20Ninja%20%7C%20C%23%20Lover&descSize=20&descAlign=60&animation=fadeIn"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 </p>
 
 <h2 align="center">👩🏻‍💻 <strong style="color:#ff6ec4">Backend Developer</strong> | <span style="color:#7873f5">ASP.NET Core Enthusiast</span></h2>
@@ -29,18 +29,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,csharp,mongodb,azure,sqlserver,postman,docker,linux,nuget,git,vscode&theme=dark"/>
 </p>
-
----
-
-## 🎓 Certifications & Badges
-
-| 🏅 Name | 🏢 Issuer | 🔗 Link |
-|--------|----------|--------|
-| Azure Fundamentals | Microsoft | [Verify](https://learn.microsoft.com/en-us/certifications/azure-fundamentals) |
-| Secure Coding in .NET | OWASP | [Learn More](https://owasp.org/) |
-| MongoDB Developer | MongoDB University | [Start Course](https://university.mongodb.com/) |
-| Docker for Devs | Udemy | [Enroll](https://www.udemy.com/) |
-
 ---
 
 ## 🛠 Dev Setup
@@ -110,13 +98,6 @@
 <p align="center">
   <img src="https://metrics.lecoq.io/ThecoderPinar?template=classic&base=header,activity,repositories&languages=1&lines=1&config.timezone=Europe/Istanbul&config.display=columns&config.animated=true"/>
 </p>
-
----
-
-## 🔭 GitHub Skyline
-
-🔗 [Click here to view in 3D](https://skyline.github.com/ThecoderPinar/2024)
-
 ---
 
 ## 📺 YouTube (soon!)
@@ -189,8 +170,7 @@ while(debugging) {
 ## 📅 Upcoming Goals
 
 - [ ] Publish AuditTrail.NET NuGet package
-- [ ] Launch YouTube mini series
-- [ ] Reach 500 GitHub followers
+- [ ] Reach 2000 GitHub followers
 - [ ] Contribute to an open-source security project
 
 ---
@@ -201,5 +181,5 @@ while(debugging) {
 
 <!-- 🌟 MAGICAL FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f7971e,ffd200&height=150&section=footer"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 </p>
