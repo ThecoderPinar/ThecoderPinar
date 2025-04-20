@@ -1,172 +1,205 @@
-![Header](./github-header-image.png)
+<!-- 🌈 ULTRA VIBRANT WAVE HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6ec4,7873f5&height=250&section=header&text=Pınar%20Topuz&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Backend%20Engineer%20%7C%20NuGet%20Ninja%20%7C%20C%23%20Lover&descSize=20&descAlign=60&animation=fadeIn"/>
+</p>
 
----
-
-
-
-https://github.com/user-attachments/assets/b6970da7-a34c-47a8-9296-395c9a1a10fc
-
----
-
-## 💫 About Me
-- 🔬 **Specialization:** Data analysis, machine learning, and predictive modeling.
-- 📊 **Experience:** Enriched with projects like Quantum Matlab Hub and Spotify Trends 2023 Analysis.
-- 💡 **Philosophy:** Believer in the power of data to drive informed decisions and improve businesses.
-- 🌱 **Lifelong Learner:** Continuously learning and staying up-to-date with the latest advancements in the field.
-- 👨‍💻 **Technical Skills:** Proficient in Python, SQL, and various data science libraries and tools.
-- 🤝 **Collaboration:** Open to collaborations and discussions on projects related to data science, machine learning, and artificial intelligence.
-- 📈 **Goal:** Making data science accessible and impactful for everyone.
-- ✨ **Mentorship:** Passionate about mentoring and sharing knowledge with the community.
-- 💪 **Advocacy:** Advocate for women in technology and breaking gender barriers.
-
----
-
-<!-- GitHub Trophies -->
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThecoderPinar&theme=radical&no-frame=true&margin-w=15&row=2&column=3" alt="ThecoderPinar" /></a> 
+<h2 align="center">👩🏻‍💻 <strong style="color:#ff6ec4">Backend Developer</strong> | <span style="color:#7873f5">ASP.NET Core Enthusiast</span></h2>
+<p align="center">
+  <b>NuGet Packages</b> • <b>MongoDB</b> • <b>JWT Auth</b> • <b>CI/CD</b><br>
+  <i>Clean architecture, sharp code, and scalable systems</i>
 </p>
 
 ---
 
-## 🔭 What I'm Currently Working On
-- **HMS Brain Activity Analysis**
-- **Big Tech Financial Insights**
+## 📖 About Me
 
-## 👯 I’m Looking to Collaborate On
-- **nanoDNA-nanoROBOT-simulation**
-
-## 🌱 I’m Currently Learning
-- **Advanced NLP techniques and reinforcement learning**
-
-## 💬 Ask Me About
-- **TensorFlow, YOLO, OpenCV, data science, machine learning, computer vision, or artificial intelligence.**
-
-## 📫 How to Reach Me
-- **Email:** piinartp@gmail.com
-
-## 👨‍💻 All of My Projects Are Available At
-- [GitHub Repositories](https://github.com/ThecoderPinar)
-
-## ⚡ Fun Fact
-- **I speak fluent emoji, but my computer never understands my jokes. 😅**
-
-## 🌍 I'm Passionate About
-- **Making technology accessible and breaking gender barriers in tech.**
-  
----
-
-<!-- Social Media Links -->
-<div align="center"> 
-  <a href="https://twitter.com/llBeest" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/piinartp" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/ThecoderPinar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/piinartp" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:piinartp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.tiktok.com/@piinartp" target="_blank"><img src="https://img.shields.io/badge/TikTok-FF0050?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
-  <a href="https://medium.com/@piinartp" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCz6fWjg5qN1h9om5e57UeVA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-</div>
+```yaml
+🛠️ Specialization: Scalable backend systems using ASP.NET Core
+🚀 Projects       : AuditTrail.NET • LegalTrack API • CampaignPanelSystem
+🎯 Focus          : REST APIs • JWT Auth • Clean Architecture
+🌱 Learning       : CI/CD · Microservices · System Design
+👩🏻‍🏫 Community   : Women in Tech Advocate, Dev Mentor
+🎯 Mission        : Build clean, testable, and modular .NET ecosystems
+```
 
 ---
 
-## 🌟 Connect with Me
-<div align="center" style="margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/piinartp/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+## 🛡️ Skills & Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,csharp,mongodb,azure,sqlserver,postman,docker,linux,nuget,git,vscode&theme=dark"/>
+</p>
+
+---
+
+## 🎓 Certifications & Badges
+
+| 🏅 Name | 🏢 Issuer | 🔗 Link |
+|--------|----------|--------|
+| Azure Fundamentals | Microsoft | [Verify](https://learn.microsoft.com/en-us/certifications/azure-fundamentals) |
+| Secure Coding in .NET | OWASP | [Learn More](https://owasp.org/) |
+| MongoDB Developer | MongoDB University | [Start Course](https://university.mongodb.com/) |
+| Docker for Devs | Udemy | [Enroll](https://www.udemy.com/) |
+
+---
+
+## 🛠 Dev Setup
+
+```bash
+🧰 Editor   : Visual Studio 2022 & VS Code (Monokai Italic Theme)
+🖥️ OS       : Windows 11 + WSL2 (Ubuntu 22.04)
+⌨️ Keyboard : Hot-swappable custom 87% board
+🎨 Terminal : Windows Terminal + oh-my-posh
+🔌 Shell    : PowerShell Core & Zsh
+```
+
+---
+
+## 🗂️ Featured Projects
+
+### 📦 `AuditTrail.NET`
+> Reusable NuGet logger with JSON formatting & console/file output. 
+[![View on GitHub](https://img.shields.io/badge/GitHub-AuditTrail.NET-ff6ec4?style=for-the-badge&logo=github)](https://github.com/ThecoderPinar/AuditTrail.NET)
+
+### 🛡 `LegalTrack API`
+> A secure, versioned contract management backend. 
+[![Explore Repo](https://img.shields.io/badge/LegalTrack-Backend-7873f5?style=for-the-badge&logo=dotnet)](https://github.com/ThecoderPinar/LegalTrack)
+
+### 📈 `CampaignPanelSystem`
+> Multilingual dashboard for campaign results, EF Core + Role Auth. 
+[![View Project](https://img.shields.io/badge/CampaignPanelSystem-Dashboard-blueviolet?style=for-the-badge&logo=windows)](https://github.com/ThecoderPinar/CampaignPanelSystem)
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThecoderPinar&theme=radical&column=6&margin-w=10&no-frame=true"/>
+</p>
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThecoderPinar&show_icons=true&theme=radical&hide_border=true&border_radius=15"/>
+  <img src="https://streak-stats.demolab.com?user=ThecoderPinar&theme=radical&hide_border=true&border_radius=15"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThecoderPinar&layout=donut&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🌀 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThecoderPinar&theme=high-contrast&area=true&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ThecoderPinar/ThecoderPinar/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 📈 GitHub Metrics Dashboard
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/ThecoderPinar?template=classic&base=header,activity,repositories&languages=1&lines=1&config.timezone=Europe/Istanbul&config.display=columns&config.animated=true"/>
+</p>
+
+---
+
+## 🔭 GitHub Skyline
+
+🔗 [Click here to view in 3D](https://skyline.github.com/ThecoderPinar/2024)
+
+---
+
+## 📺 YouTube (soon!)
+
+> 🧪 **Upcoming**: Clean Architecture Explained in 10 mins  
+> 🎬 RESTful Patterns in ASP.NET  
+> 🧠 NuGet & Dependency Injection Mastery
+
+---
+
+## 💬 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+## ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/piinartp">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%95-ff6ec4?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
   </a>
-  <a href="https://github.com/ThecoderPinar" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-  </a>
-  <a href="https://www.kaggle.com/pinuto" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="margin: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCpiinartp" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-  </a>
-</div>
+</p>
 
 ---
 
-## 🛠️ Languages and Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MatLab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</div>
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://twitter.com/llBeest"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/></a>
+  <a href="https://www.linkedin.com/in/piinartp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/ThecoderPinar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="mailto:piinartp@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://medium.com/@piinartp"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/yourID"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+</p>
 
 ---
 
-<!-- GitHub Stats -->
-<h3 align="center" style="margin-top: 50px;">📊 Stats:</h3>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThecoderPinar&layout=compact&theme=cobalt" alt=ThecoderPinar />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThecoderPinar&show_icons=true&locale=en&theme=cobalt" alt="ThecoderPinar" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThecoderPinar&theme=cobalt" alt="ThecoderPinar" />
-</div>
+## 🧙 Fun Zone
+
+<details>
+<summary>🪄 Dev Joke of the Day</summary>
+
+```csharp
+// Commented for safety
+while(debugging) {
+   drinkCoffee();
+   blameBackend(); // unless it’s me
+}
+```
+
+</details>
 
 ---
 
-<!-- GitHub Activity Graph -->
-<h2 align="center" style="margin-top: 60px;">⚡ Activity Graph:</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThecoderPinar&theme=dracula"/>
-</div>
+## 💖 Personal Corner
+
+```txt
+✨ I believe backend code can be beautiful.
+☕ Coffee is my co-pilot.
+🌿 I break monoliths with kindness.
+🧼 .NET is my brush, GitHub is my canvas.
+```
 
 ---
 
-### 😂 Random Dev Meme
-<div align="center">
-  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</div>
+## 📅 Upcoming Goals
+
+- [ ] Publish AuditTrail.NET NuGet package
+- [ ] Launch YouTube mini series
+- [ ] Reach 500 GitHub followers
+- [ ] Contribute to an open-source security project
 
 ---
 
-<!-- Spotify Data Card -->
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31wp4diy5vjb7iaj2kpha4foyree">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31wp4diy5vjb7iaj2kpha4foyree" alt="Data Card for Spotify">
-</a>
+## 🎉 Special Thanks
 
----
+> To everyone who contributes to OSS, supports women in tech, and builds inclusive code communities — thank you ❤️
 
-![image](https://github.com/user-attachments/assets/b8e41412-8a82-415c-9846-44350d30aac9)
-
----
-
-<!-- Thank You Note -->
-<div align="center" style="margin-top: 50px; padding: 20px; background-color: #f0f0f0; border-radius: 15px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);">
-  <h3>Thanks for visiting my profile! Let's connect and build something amazing together! 🚀</h3>
-</div>
-
----
-
-<!-- Profile Views -->
-<div align="center" style="margin-top: 40px;">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ThecoderPinar&label=Profile%20Views&color=FF69B4&icon=9&pretty=true" />
-  </a>
-</div>
+<!-- 🌟 MAGICAL FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f7971e,ffd200&height=150&section=footer"/>
+</p>
