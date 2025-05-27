@@ -15,7 +15,7 @@
 
 ```yaml
 🛠️ Specialization: Scalable backend systems using ASP.NET Core
-🚀 Projects       : ContractManagementSystem
+🚀 Projects       : CoreXCrudAPI 
 🎯 Focus          : REST APIs • JWT Auth • Clean Architecture
 🌱 Learning       : CI/CD · Microservices · System Design
 👩🏻‍🏫 Community   : Women in Tech Advocate, Dev Mentor
@@ -24,38 +24,115 @@
 
 ---
 
-## 🛡️ Skills & Stack
+## 🛡️ Skills & Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,mongodb,azure,sqlserver,postman,docker,linux,nuget,git,vscode&theme=dark"/>
-</p>
+🚀 I specialize in building scalable, secure, and maintainable backends using modern .NET technologies.  
+🔧 Here are the tools and technologies I actively work with:
+
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/><br/>.NET Core
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/><br/>C#
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/><br/>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/><br/>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="50" height="50"/><br/>SQL Server
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" width="50" height="50"/><br/>Postman
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/><br/>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/><br/>VS Code
+    </td>
+    <td align="center" colspan="3">
+      <img src="https://img.icons8.com/fluency/48/github.png" width="50" height="50"/><br/>GitHub
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+- **Frameworks**: ASP.NET Core, Entity Framework Core  
+- **Languages**: C#, Python  
+- **Databases**: MongoDB, SQL Server  
+- **Tools**: Postman, Git, NuGet, Visual Studio Code  
+- **Practices**: RESTful APIs, JWT Auth, Validation, Clean Architecture
+
 ---
 
 ## 🛠 Dev Setup
 
-```bash
-🧰 Editor   : Visual Studio 2022 & VS Code (Monokai Italic Theme)
-🖥️ OS       : Windows 11 + WSL2 (Ubuntu 22.04)
-⌨️ Keyboard : Hot-swappable custom 87% board
-🎨 Terminal : Windows Terminal + oh-my-posh
-🔌 Shell    : PowerShell Core & Zsh
-```
+> 🧠 Minimalist, fast & powerful — my daily development environment
+
+| 🔧 Tool       | ⚙️ Configuration Details |
+|--------------|--------------------------|
+| 🧰 **Editor**   | Visual Studio 2022 & VS Code  <br><sub>Theme: Monokai Italic + Material Icons</sub> |
+| 🖥️ **OS**       | Windows 11 Pro + WSL2  <br><sub>Ubuntu 22.04 LTS</sub> |
+| ⌨️ **Keyboard** | Custom 87% Hot-Swappable  <br><sub>Gateron Brown • RGB • Macro Support</sub> |
+| 🎨 **Terminal** | Windows Terminal + Oh My Posh  <br><sub>Atomic Prompt • Nerd Fonts</sub> |
+| 🐚 **Shell**    | PowerShell Core + Zsh  <br><sub>Autosuggestions • Syntax Highlighting</sub> |
+
+---
+
+### ✨ Highlights
+
+- ⚡ Blazing-fast .NET development with CLI & EF Core Tools  
+- 🐧 WSL2 for true Linux-native workflows  
+- 🎯 Git-aware, icon-rich terminal for productivity  
+- 💾 Fully integrated with Git, Docker, Swagger, and Postman
+
 
 ---
 
 ## 🗂️ Featured Projects
 
-### 📦 `ContractManagementSystem`
-> Enterprise Contract Lifecycle API with ASP.NET Core.
-[![View on GitHub](https://img.shields.io/badge/GitHub-ContractManagementSystem-ff6ec4?style=for-the-badge&logo=github)](https://github.com/ThecoderPinar/ContractManagementSystem)
+### 📦 `CoreXCrudAPI`
+> Modern CRUD API with ASP.NET Core
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-CoreXCrudAPI-ff6ec4?style=for-the-badge&logo=github)](https://github.com/ThecoderPinar/CoreXCrudAPI)
+
+A lightweight API project featuring user, product, and order management. Built with .NET Core, EF Core, AutoMapper, FluentValidation, JWT Auth, and rate limiting.
+
 
 ---
 
 ## 🏆 Achievements
 
+> 📊 GitHub activity trophies that reflect my passion, consistency, and contributions to software development.
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThecoderPinar&theme=radical&column=6&margin-w=10&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ThecoderPinar&theme=radical&no-frame=true&column=6&margin-w=15&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
 </p>
+
+---
+
+### 🥇 Highlighted Milestones
+
+- 🚀 **1000+** total contributions in the last year  
+- 🛠️ **Multiple open-source API projects** on GitHub  
+- 📦 Active contributor to .NET & backend dev community  
+- 🧠 Continuous learning & building through real-world apps  
+- ✨ Projects with modern stacks: JWT, MongoDB, EF Core, Docker
+
 
 ---
 
@@ -87,9 +164,22 @@
 
 ## 📈 GitHub Metrics Dashboard
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/ThecoderPinar?template=classic&base=header,activity,repositories&languages=1&lines=1&config.timezone=Europe/Istanbul&config.display=columns&config.animated=true"/>
-</p>
+> A deeper look into my GitHub journey — from active hours to commit languages & repo focus.
+
+<div align="center">
+
+<!-- Productivity Chart -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThecoderPinar&theme=radical&hide_border=true&area=true&custom_title=💡 GitHub+Activity+Heatmap" width="95%"/>
+
+<!-- Work Hour Heatmap -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThecoderPinar&theme=radical" width="45%"/>
+
+<!-- Commit Language Pie -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThecoderPinar&theme=radical" width="45%"/>
+
+</div>
+
+
 ---
 
 ## 📺 YouTube (soon!)
